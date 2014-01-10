@@ -53,11 +53,12 @@ margin-top: 20px;
 	
 	
 #content{
+ min-height: 800px;
 	width: 800px;
-	height: 800px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: -800px;
+	margin-bottom: 50px;
 	text-align: left;
 	}
 	
