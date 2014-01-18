@@ -62,7 +62,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>defaultLocation</key>
-					<string>~/Desktop/Design/señor/Digital Portfolio/final_site/images</string>
+					<string>~/Desktop/Design/Portfolio site/portfolio_site/images</string>
 					<key>granularity</key>
 					<integer>0</integer>
 					<key>multipleSelection</key>
@@ -323,7 +323,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>B9D06A49-C540-488B-934E-B7DAAF457ED0</key>
+		<key>B45D90CD-55AE-4BD6-B669-F680515C5AC1</key>
 		<dict>
 			<key>from</key>
 			<string>A24829CC-56EF-4ECD-94C5-04F1A18427E2 - A24829CC-56EF-4ECD-94C5-04F1A18427E2</string>
